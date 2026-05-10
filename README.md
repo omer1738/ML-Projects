@@ -1,10 +1,10 @@
-# 🤖 ML Projects — Scikit-Learn
+#  ML Projects — Scikit-Learn
 
 A collection of machine learning projects built while learning Scikit-Learn. Each project covers a core ML algorithm applied to a real dataset, from data exploration to making predictions.
 
 ---
 
-## 📁 Projects
+##  Projects
 
 ### 1. 🏥 Medical Insurance Cost Prediction — Linear Regression
 **File:** `LinearRegression (1).ipynb`
@@ -24,7 +24,7 @@ Predicts medical insurance charges based on patient information using Linear Reg
 
 ---
 
-### 2. 🩺 Classification with Logistic Regression
+### 2.  Classification with Logistic Regression
 **File:** `LogisticRegression (1).ipynb`
 
 A binary classification project using Logistic Regression on a real-world dataset.
@@ -39,7 +39,7 @@ A binary classification project using Logistic Regression on a real-world datase
 
 ---
 
-### 3. 🌳 Decision Trees & Random Forests
+### 3.  Decision Trees & Random Forests
 **File:** `DescisionTrees.ipynb`
 
 Applies tree-based models to a classification problem, with deep exploration of hyperparameter tuning.
@@ -58,7 +58,7 @@ Applies tree-based models to a classification problem, with deep exploration of 
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Tool | Purpose |
 |---|---|
@@ -71,7 +71,7 @@ Applies tree-based models to a classification problem, with deep exploration of 
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 1. Clone the repository:
    ```bash
@@ -93,13 +93,13 @@ Applies tree-based models to a classification problem, with deep exploration of 
 
 ---
 
-## 📚 Learning Resource
+##  Learning Resource
 
 These projects were built following the [Machine Learning with Python and Scikit-Learn – Full Course](https://www.youtube.com/watch?v=hDKCxebp88A) on freeCodeCamp.
 
 ---
 
-## 👤 Author
+##  Author
 
 **Omar Al-Dibsawi**  
 GitHub: [@omer1738](https://github.com/omer1738)
