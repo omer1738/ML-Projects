@@ -6,7 +6,7 @@ A collection of machine learning projects built while learning Scikit-Learn. Eac
 
 ##  Projects
 
-### 1. 🏥 Medical Insurance Cost Prediction — Linear Regression
+### 1.  Medical Insurance Cost Prediction — Linear Regression
 **File:** `LinearRegression (1).ipynb`
 
 Predicts medical insurance charges based on patient information using Linear Regression.
